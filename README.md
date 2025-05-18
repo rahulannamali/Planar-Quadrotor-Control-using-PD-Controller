@@ -1,1 +1,0 @@
-# Planar-Quadrotor-Control-using-PD-Controller
